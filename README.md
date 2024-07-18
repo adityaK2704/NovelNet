@@ -1,1 +1,2 @@
 ### NovelNet
+NovelNet is a backend Java application that lets users interact with other book lovers and manage their book collections. In addition to book management (including creation, editing, sharing, and archiving), it provides features like user registration, secure email validation, book borrowing with availability checks, book return capabilities, and approval of book returns. The application follows best practices for REST API design and uses JWT tokens to assure security. The backend is constructed using Spring Security 6 and Boot 3.
